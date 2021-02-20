@@ -1,0 +1,32 @@
+body
+{
+    background-color: rgba(125, 143, 255, 0.76);
+}
+#r
+{
+    float: right;
+}
+#l
+{
+    float: left;
+}
+#button
+{
+    alignment: center;
+    height: 50px;
+    width: 730px;
+}
+#blank
+{
+    height: 10px;
+    width: 100%;
+}
+h1
+{
+   /* background-color: rgba(17,165,181,0.19); */
+    text-align: center;
+}
+.nav
+{
+    height: 68px;
+}
